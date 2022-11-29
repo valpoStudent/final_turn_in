@@ -1,0 +1,4 @@
+For the code quality, I sometimes use the methods within the larger ones. This technique makes the code more succinct rather than tedious. 
+Another technique that I use to maintain code quality is to use the created methods to simplify the code. Due to the usage of created methods, the code
+composition of the paint program is very readable and understandable to the reader. The most frequently-used technique that I use for organization would
+be how I use a space between two chunks of code to make the code more appealing and to differentiate where I transition into coding one feature to another.
